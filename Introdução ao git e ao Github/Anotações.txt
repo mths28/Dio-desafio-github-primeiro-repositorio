@@ -1,0 +1,4 @@
+Link para download do Git: https://git-scm.com/
+Link para download do GitHub Desktop: https://desktop.github.com/
+O Git Bash é um terminal estendido para otimizar o uso do Git facilitando a interação com o sistema.
+
